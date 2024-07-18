@@ -71,6 +71,7 @@ font-size: 1rem;
 font-weight: 400;
 letter-spacing: 0.5px;
 margin-bottom: 35px;
+line-height: 24px;
 }
 .btn-primary{
     color: rgb(255, 255, 255);
@@ -161,7 +162,7 @@ margin-top: 5px;
 border-radius: 18px;
 background: rgb(34, 34, 34);
 margin-top: 100px;
-padding: 30px;
+padding:30px 30px 30px 50px ;
 }
 .run-txt-container{
 
