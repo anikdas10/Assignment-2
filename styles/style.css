@@ -109,3 +109,46 @@ margin-top: 80px;
 }
 
 
+/* Your havits */
+.your-havits
+{
+    margin-top: 100px;
+}
+.txt-heading{
+    color: rgb(255, 255, 255);
+font-size: 3rem;
+font-weight: 900;
+}
+.txt-container{
+    width: 50%;
+    text-align: center;
+    margin: 0 auto;
+}
+.img-h{
+    color: rgb(255, 255, 255);
+font-size: 1.1rem;
+font-weight: 600;
+margin-top: 10px;
+}
+.img-p{
+    color: rgba(255, 255, 255, 0.5);
+font-size: .9rem;
+font-weight: 400;
+text-align: center;
+margin-top: 5px;
+}
+.havits-img{
+    border-radius: 50%;
+}
+.havits-img-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 50px;
+}
+.h-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
